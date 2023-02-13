@@ -1,6 +1,6 @@
 # Site
 repository: sproogen/resume-theme
-favicon: images/favicon.ico
+favicon: images/logo.png
 
 # Content configuration version
 version: 2
@@ -15,7 +15,7 @@ website: https://github.com/Huicho01425
 darkmode: false
 
 # Social links
-twitter_username: facespics
+twitter_username: 
 github_username:  Huicho01425
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -25,7 +25,7 @@ instagram_username:
 linkedin_username: LuisAlfOrtiz
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: 
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -33,7 +33,7 @@ youtube_username: globalmtb
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hola, mi nombre es Luis soy estudiante de Ing en computacion cuento con un Tecnologo profesional en informatica. Tengo experiencia en soporte tecnico y atencion a clienetes, me caracterizo por tener creatividad y un poco de iniciativa, me va bien trabajar en equipos.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
+  Se me da bien: <mark>Soporte</mark>  y  <mark>Comer tacos</mark>
 
 content:
 
@@ -64,7 +65,7 @@ content:
         sub_title: Soporte tecnico 
         caption: Enero 2019 - Noviembre 2019
         quote: >
-          empresa dedicada a solucines en tecnologias, redes y telefonia.
+          Empresa dedicada a solucines en tecnologias, redes y telefonia.
         description: | # this will include new lines to allow paragraphs
             Instalación, Soporte técnico de equipos de cómputo y redes 
             Atención a tickets (contacto con clientes y proveedores).
@@ -95,9 +96,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Aparte de tener interes en la tecnologia, mis pasatiempos son:
-      - Jugar videojuegos.
-      - Ver videos de entretenimiento.
-      - Entretenimientos sociales.
+        - Jugar videojuegos.
+        - Ver videos de entretenimiento.
+        - Entretenimientos sociales.
 
 # Footer
 footer_show_references: true
